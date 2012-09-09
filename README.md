@@ -1,4 +1,4 @@
 Easy-Template
 =============
 
-Easy Template template engine on PHP
+Easy template engine on PHP.
